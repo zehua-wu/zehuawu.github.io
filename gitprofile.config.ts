@@ -57,6 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
+    Based in: 'Philadelphia, PA',
     linkedin: 'zehua-wu1',
     researchGate: '',
     email: 'zehuawu@seas.upenn.com',
