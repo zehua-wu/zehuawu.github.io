@@ -166,7 +166,7 @@ const CONFIG = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
-     Corporate
+     'Corporate'
     ],
 
     // Custom theme, applied to `procyon` theme
