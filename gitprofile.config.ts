@@ -76,7 +76,7 @@ const CONFIG = {
     'Git',
     'Docker',
     'AWS',
-    'SpringBoot',
+    'Spring Boot',
   ],
   experiences: [
     {
@@ -166,7 +166,7 @@ const CONFIG = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
-     'Corporate'
+     'light'
     ],
 
     // Custom theme, applied to `procyon` theme
