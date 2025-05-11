@@ -57,7 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'www.linkedin.com/in/zehua-wu1',
+    linkedin: 'zehua-wu1',
     researchGate: '',
     email: 'zehuawu@seas.upenn.com',
   },
@@ -166,8 +166,7 @@ const CONFIG = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
-      'light',
-      'dark',
+     
     ],
 
     // Custom theme, applied to `procyon` theme
