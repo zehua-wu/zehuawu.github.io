@@ -53,7 +53,7 @@ const CONFIG = {
   },
   seo: {
     title: 'zehuawu.github.io',
-    description: '',
+    description: 'Zehua WU',
     imageURL: '',
   },
   social: {
