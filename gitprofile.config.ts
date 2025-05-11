@@ -166,36 +166,7 @@ const CONFIG = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
-     {
-        "meta": {
-          "primary": "#0866FF",          // Meta Blue
-          "primary-content": "#FFFFFF",  // Text on primary (white)
-          "secondary": "#4A90E2",       // A lighter, complementary blue
-          "secondary-content": "#FFFFFF",// Text on secondary (white)
-          "accent": "#1B9CFC",          // A brighter, vibrant blue for accents
-          "accent-content": "#FFFFFF",   // Text on accent (white)
-          "neutral": "#4A4A4A",         // Dark Gray for neutral text/elements
-          "neutral-content": "#FFFFFF",  // Text on neutral elements (can be white or a light gray)
-          "base-100": "#FFFFFF",         // Main background (white)
-          "base-200": "#F5F5F5",         // Slightly darker background (e.g., for cards)
-          "base-300": "#E0E0E0",         // Even slightly darker or for borders
-          "base-content": "#1f2937",     // Default text color on base-100 (dark gray)
-          "info": "#2094f3",            // Info color
-          "success": "#009485",          // Success color
-          "warning": "#ff9900",          // Warning color
-          "error": "#ff5724",            // Error color
-
-          // You can also define specific variable names if needed, for example:
-          // "--rounded-box": "1rem", // border radius rounded-box utility class, used in card component (default 1rem)
-          // "--rounded-btn": "0.5rem", // border radius rounded-btn utility class, used in button component (default 0.5rem)
-          // "--rounded-badge": "1.9rem", // border radius rounded-badge utility class, used in badge component (default 1.9rem)
-          // "--animation-btn": "0.25s", // duration of animation when you click on button (default 0.25s)
-          // "--animation-input": "0.2s", // duration of animation for inputs like checkbox, toggle, radio, etc (default 0.2s)
-          // "--btn-focus-scale": "0.95", // scale transform of button when you focus on it (default 0.95)
-          // "--border-btn": "1px", // border width of buttons (default 1px)
-          // "--tab-border": "1px", // border width of tabs (default 1px)
-          // "--tab-radius": "0.5rem", // border radius of tabs (default 0.5rem)
-        },
+     Corporate
     ],
 
     // Custom theme, applied to `procyon` theme
